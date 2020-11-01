@@ -1,0 +1,18 @@
+C:\Users\Test\source\repos\PetShop.Core.Entity\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.deps.json
+C:\Users\Test\source\repos\PetShop.Core.Entity\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.dll
+C:\Users\Test\source\repos\PetShop.Core.Entity\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.pdb
+C:\Users\Test\source\repos\PetShop.Core.Entity\obj\Debug\netcoreapp2.2\PetShop.Core.Entity.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\PetShop.Core.Entity\obj\Debug\netcoreapp2.2\PetShop.Core.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\PetShop.Core.Entity\obj\Debug\netcoreapp2.2\PetShop.Core.Entity.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\PetShop.Core.Entity\obj\Debug\netcoreapp2.2\PetShop.Core.Entity.AssemblyInfo.cs
+C:\Users\Test\source\repos\PetShop.Core.Entity\obj\Debug\netcoreapp2.2\PetShop.Core.Entity.dll
+C:\Users\Test\source\repos\PetShop.Core.Entity\obj\Debug\netcoreapp2.2\PetShop.Core.Entity.pdb
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core.Entity\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.deps.json
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core.Entity\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core.Entity\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.pdb
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core.Entity\obj\Debug\netcoreapp2.2\PetShop.Core.Entity.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core.Entity\obj\Debug\netcoreapp2.2\PetShop.Core.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core.Entity\obj\Debug\netcoreapp2.2\PetShop.Core.Entity.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core.Entity\obj\Debug\netcoreapp2.2\PetShop.Core.Entity.AssemblyInfo.cs
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core.Entity\obj\Debug\netcoreapp2.2\PetShop.Core.Entity.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core.Entity\obj\Debug\netcoreapp2.2\PetShop.Core.Entity.pdb

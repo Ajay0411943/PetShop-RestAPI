@@ -1,0 +1,28 @@
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.AssemblyInfo.cs
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.deps.json
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.dll
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.pdb
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Core.dll
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.dll
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.pdb
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Core.pdb
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.csproj.CopyComplete
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.dll
+C:\Users\Test\source\repos\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.pdb
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.deps.json
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.pdb
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Core.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.pdb
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.2\PetShop.Core.pdb
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.AssemblyInfo.cs
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.csproj.CopyComplete
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.pdb

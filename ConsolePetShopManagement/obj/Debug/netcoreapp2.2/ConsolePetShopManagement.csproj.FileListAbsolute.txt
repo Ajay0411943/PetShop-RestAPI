@@ -1,0 +1,36 @@
+C:\Users\Test\source\repos\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\ConsolePetShopManagement.deps.json
+C:\Users\Test\source\repos\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\ConsolePetShopManagement.runtimeconfig.json
+C:\Users\Test\source\repos\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\ConsolePetShopManagement.runtimeconfig.dev.json
+C:\Users\Test\source\repos\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\ConsolePetShopManagement.dll
+C:\Users\Test\source\repos\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\ConsolePetShopManagement.pdb
+C:\Users\Test\source\repos\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.AssemblyInfo.cs
+C:\Users\Test\source\repos\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.dll
+C:\Users\Test\source\repos\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.pdb
+C:\Users\Test\source\repos\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\PetShop.Core.dll
+C:\Users\Test\source\repos\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.dll
+C:\Users\Test\source\repos\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.dll
+C:\Users\Test\source\repos\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.pdb
+C:\Users\Test\source\repos\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\PetShop.Core.pdb
+C:\Users\Test\source\repos\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.pdb
+C:\Users\Test\source\repos\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.csproj.CopyComplete
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\ConsolePetShopManagement.deps.json
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\ConsolePetShopManagement.runtimeconfig.json
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\ConsolePetShopManagement.runtimeconfig.dev.json
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\ConsolePetShopManagement.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\ConsolePetShopManagement.pdb
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\PetShop.Core.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.pdb
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\PetShop.Core.pdb
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\bin\Debug\netcoreapp2.2\PetShop.Infrastructure.Static.Data.pdb
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.AssemblyInfo.cs
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.csproj.CopyComplete
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\ConsolePetShopManagement\obj\Debug\netcoreapp2.2\ConsolePetShopManagement.pdb

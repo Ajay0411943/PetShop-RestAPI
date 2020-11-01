@@ -1,0 +1,24 @@
+C:\Users\Test\source\repos\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.AssemblyInfo.cs
+C:\Users\Test\source\repos\PetShop.Core\bin\Debug\netcoreapp2.2\PetShop.Core.deps.json
+C:\Users\Test\source\repos\PetShop.Core\bin\Debug\netcoreapp2.2\PetShop.Core.dll
+C:\Users\Test\source\repos\PetShop.Core\bin\Debug\netcoreapp2.2\PetShop.Core.pdb
+C:\Users\Test\source\repos\PetShop.Core\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.dll
+C:\Users\Test\source\repos\PetShop.Core\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.pdb
+C:\Users\Test\source\repos\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.csproj.CopyComplete
+C:\Users\Test\source\repos\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.dll
+C:\Users\Test\source\repos\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.pdb
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core\bin\Debug\netcoreapp2.2\PetShop.Core.deps.json
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core\bin\Debug\netcoreapp2.2\PetShop.Core.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core\bin\Debug\netcoreapp2.2\PetShop.Core.pdb
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core\bin\Debug\netcoreapp2.2\PetShop.Core.Entity.pdb
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.AssemblyInfo.cs
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.csproj.CopyComplete
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.dll
+C:\Users\Test\source\repos\Compulsory first 3rd sem\PetShop.Core\obj\Debug\netcoreapp2.2\PetShop.Core.pdb

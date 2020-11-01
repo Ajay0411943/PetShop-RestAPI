@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetShop.Core.Entity", "..\PetShop.Core.Entity\PetShop.Core.Entity.csproj", "{02329BFD-E758-4A3A-BF16-03314118BC0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{423D9AE7-7C2A-49BE-B026-A7B4C50EFED0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{D5367698-1D07-4D44-A8F2-D8D7E82EB0CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{45FE8C37-5471-4B89-A947-54753CDF3BF8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetShop.Core", "..\PetShop.Core\PetShop.Core.csproj", "{AD18E3B2-D4B1-485B-98EC-79211B003D75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetShop.Infrastructure.Static.Data", "..\PetShop.Infrastructure.Static.Data\PetShop.Infrastructure.Static.Data.csproj", "{4C7D7898-4CD6-47DC-A2A0-F1A3761D056A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetShop.UI.RestAPI", "..\PetShop.UI.RestAPI\PetShop.UI.RestAPI.csproj", "{92703E0A-7FA9-48CE-AB31-E30AB318EAC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetShop.Infrastructure.SQLData", "..\PetShop.Infrastructure.SQLData\PetShop.Infrastructure.SQLData.csproj", "{782A1F01-6910-4620-A046-208CE8064834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02329BFD-E758-4A3A-BF16-03314118BC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02329BFD-E758-4A3A-BF16-03314118BC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02329BFD-E758-4A3A-BF16-03314118BC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02329BFD-E758-4A3A-BF16-03314118BC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD18E3B2-D4B1-485B-98EC-79211B003D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD18E3B2-D4B1-485B-98EC-79211B003D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD18E3B2-D4B1-485B-98EC-79211B003D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD18E3B2-D4B1-485B-98EC-79211B003D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7D7898-4CD6-47DC-A2A0-F1A3761D056A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7D7898-4CD6-47DC-A2A0-F1A3761D056A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7D7898-4CD6-47DC-A2A0-F1A3761D056A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7D7898-4CD6-47DC-A2A0-F1A3761D056A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92703E0A-7FA9-48CE-AB31-E30AB318EAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92703E0A-7FA9-48CE-AB31-E30AB318EAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92703E0A-7FA9-48CE-AB31-E30AB318EAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92703E0A-7FA9-48CE-AB31-E30AB318EAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782A1F01-6910-4620-A046-208CE8064834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782A1F01-6910-4620-A046-208CE8064834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782A1F01-6910-4620-A046-208CE8064834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782A1F01-6910-4620-A046-208CE8064834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{02329BFD-E758-4A3A-BF16-03314118BC0A} = {423D9AE7-7C2A-49BE-B026-A7B4C50EFED0}
+		{AD18E3B2-D4B1-485B-98EC-79211B003D75} = {423D9AE7-7C2A-49BE-B026-A7B4C50EFED0}
+		{4C7D7898-4CD6-47DC-A2A0-F1A3761D056A} = {45FE8C37-5471-4B89-A947-54753CDF3BF8}
+		{92703E0A-7FA9-48CE-AB31-E30AB318EAC2} = {D5367698-1D07-4D44-A8F2-D8D7E82EB0CB}
+		{782A1F01-6910-4620-A046-208CE8064834} = {45FE8C37-5471-4B89-A947-54753CDF3BF8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E10235-2A7E-40E8-BD27-C31BF01D0AA7}
+	EndGlobalSection
+EndGlobal

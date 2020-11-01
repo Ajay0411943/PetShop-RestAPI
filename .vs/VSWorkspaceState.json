@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PetShop.Core",
+    "\\PetShop.Core.Entity",
+    "\\PetShop.Core\\ApplicationService",
+    "\\PetShop.Core\\DomainService",
+    "\\PetShop.Infrastructre.Data",
+    "\\PetShop.Infrastructure.SQLData",
+    "\\PetShop.Infrastructure.Static.Data",
+    "\\PetShop.UI.RestAPI"
+  ],
+  "SelectedNode": "\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj",
+  "PreviewInSolutionExplorer": false
+}
