@@ -12851,11 +12851,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.UI.RestAPI\\PetShop.UI.RestAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.UI.RestAPI\\PetShop.UI.RestAPI.csproj",
       "projectName": "PetShop.UI.RestAPI",
-      "projectPath": "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.UI.RestAPI\\PetShop.UI.RestAPI.csproj",
+      "projectPath": "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.UI.RestAPI\\PetShop.UI.RestAPI.csproj",
       "packagesPath": "C:\\Users\\Test\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.UI.RestAPI\\obj\\",
+      "outputPath": "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.UI.RestAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12874,14 +12874,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj": {
-              "projectPath": "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj"
+            "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj": {
+              "projectPath": "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj"
             },
-            "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.Core\\PetShop.Core.csproj": {
-              "projectPath": "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.Core\\PetShop.Core.csproj"
+            "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.Core\\PetShop.Core.csproj": {
+              "projectPath": "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.Core\\PetShop.Core.csproj"
             },
-            "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.Infrastructure.SQLData\\PetShop.Infrastructure.SQLData.csproj": {
-              "projectPath": "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.Infrastructure.SQLData\\PetShop.Infrastructure.SQLData.csproj"
+            "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.Infrastructure.SQLData\\PetShop.Infrastructure.SQLData.csproj": {
+              "projectPath": "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.Infrastructure.SQLData\\PetShop.Infrastructure.SQLData.csproj"
             }
           }
         }

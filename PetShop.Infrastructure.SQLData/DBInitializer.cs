@@ -26,7 +26,7 @@ namespace PetShop.Infrastructure.SQLData
             List<User> users = new List<User>
             {
                 new User {
-                    Username = "Nedas",
+                    Username = "David",
                     PasswordHash = passwordHashJoe,
                     PasswordSalt = passwordSaltJoe,
                     IsAdmin = false

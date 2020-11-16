@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rkeskawIXMtqxWSjkmdn/NjUdIAfpPeF6dH0pjLk9H2gtsKkS4YxQiW+asrYyx4oINU3tSL3HJzHTMvnV2OsfQ==",
+  "dgSpecHash": "qW2wPLe6Eapd54M+WT/aKI5baB51olAIrNmAgauuIiAHUiG1WcgAWMqP3kWG/N0E66cpJnHbQ9rhReRe2vwWiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj",
+  "projectFilePath": "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

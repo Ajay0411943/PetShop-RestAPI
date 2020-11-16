@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ced203dd-1e08-45dd-8d68-878a088ffda0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ProductsAppFrontEnd/src/app/_models/user.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsAppFrontEnd/src/app/_models/product.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsAppFrontEnd/src/app/_models/product.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsAppFrontEnd/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsAppFrontEnd/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsAppFrontEnd/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsAppFrontEnd/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/.vs/ProductsApp/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/.vs/ProductsApp/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/.vs/ProductsApp/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/.vs/ProductsApp/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/.vs/ProductsApp/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/.vs/ProductsApp/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Debug/netcoreapp3.1/ProductsApp.Core.Entities.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Debug/netcoreapp3.1/ProductsApp.Core.Entities.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Debug/netcoreapp3.1/ProductsApp.Core.Entities.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Debug/netcoreapp3.1/ProductsApp.Core.Entities.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Debug/netcoreapp3.1/ProductsApp.Core.Entities.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Debug/netcoreapp3.1/ProductsApp.Core.Entities.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Debug/netcoreapp3.1/ProductsApp.Core.Entities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Debug/netcoreapp3.1/ProductsApp.Core.Entities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Debug/netcoreapp3.1/ProductsApp.Core.Entities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Debug/netcoreapp3.1/ProductsApp.Core.Entities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/ProductsApp.Core.Entities.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/ProductsApp.Core.Entities.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/ProductsApp.Core.Entities.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/ProductsApp.Core.Entities.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Release/netcoreapp3.1/ProductsApp.Core.Entities.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Release/netcoreapp3.1/ProductsApp.Core.Entities.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Release/netcoreapp3.1/ProductsApp.Core.Entities.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/Release/netcoreapp3.1/ProductsApp.Core.Entities.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core.Entities/ProductsApp.Core.Entities/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/bin/Debug/netcoreapp3.1/ProductsApp.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/bin/Debug/netcoreapp3.1/ProductsApp.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/bin/Debug/netcoreapp3.1/ProductsApp.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/bin/Debug/netcoreapp3.1/ProductsApp.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Debug/netcoreapp3.1/ProductsApp.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Debug/netcoreapp3.1/ProductsApp.Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Debug/netcoreapp3.1/ProductsApp.Core.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Debug/netcoreapp3.1/ProductsApp.Core.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Debug/netcoreapp3.1/ProductsApp.Core.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Debug/netcoreapp3.1/ProductsApp.Core.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Debug/netcoreapp3.1/ProductsApp.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Debug/netcoreapp3.1/ProductsApp.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Debug/netcoreapp3.1/ProductsApp.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Debug/netcoreapp3.1/ProductsApp.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Debug/netcoreapp3.1/ProductsApp.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Debug/netcoreapp3.1/ProductsApp.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/ProductsApp.Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/ProductsApp.Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/ProductsApp.Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/ProductsApp.Core.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Release/netcoreapp3.1/ProductsApp.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/Release/netcoreapp3.1/ProductsApp.Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Core/ProductsApp.Core/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/Repositories/UserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/Repositories/UserRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/bin/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/ProductsApp.Infrastructure.Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/ProductsApp.Infrastructure.Data.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/ProductsApp.Infrastructure.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/ProductsApp.Infrastructure.Data.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Release/netcoreapp3.1/ProductsApp.Infrastructure.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/Release/netcoreapp3.1/ProductsApp.Infrastructure.Data.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.Data/ProductsApp.Infrastructure.Data/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/SqLiteDbInitializer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/SqLiteDbInitializer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.SQLite.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/obj/Debug/netcoreapp3.1/ProductsApp.Infrastructure.SQLite.Data.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/obj/ProductsApp.Infrastructure.SQLite.Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/obj/ProductsApp.Infrastructure.SQLite.Data.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/obj/ProductsApp.Infrastructure.SQLite.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/obj/ProductsApp.Infrastructure.SQLite.Data.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/obj/Release/netcoreapp3.1/ProductsApp.Infrastructure.SQLite.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/obj/Release/netcoreapp3.1/ProductsApp.Infrastructure.SQLite.Data.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsApp.Infrastructure.SQLite.Data/ProductsApp.Infrastructure.SQLite.Data/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsApp.Core.Entities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsApp.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsApp.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsApp.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsApp.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsApp.Infrastructure.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsAppWebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsAppWebApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsAppWebApi.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsAppWebApi.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsAppWebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsAppWebApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsAppWebApi.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/bin/Debug/netcoreapp3.1/ProductsAppWebApi.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Debug/netcoreapp3.1/ProductsAppWebApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/ProductsAppWebApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/ProductsAppWebApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/ProductsAppWebApi.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/ProductsAppWebApi.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Release/netcoreapp3.1/ProductsAppWebApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/Release/netcoreapp3.1/ProductsAppWebApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductsApp/ProductsWebApi/ProductsAppWebApi/obj/project.nuget.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kJp5NMCqacl4XMb2KL1uuJeXmb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Test\Desktop\JWT compulsory authentication\ProductsApp\FrontEnd\ProductsAppFrontEnd\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ced203dd-1e08-45dd-8d68-878a088ffda0" name="Default Changelist" comment="" />
+      <created>1605428400912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605428400912</updated>
+      <workItem from="1605428416982" duration="3241000" />
+      <workItem from="1605433556617" duration="2794000" />
+      <workItem from="1605444295677" duration="4282000" />
+      <workItem from="1605529159285" duration="4015000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="323" key="#TSLint" timestamp="1605428551810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="323" key="#TSLint/0.0.1536.824@0.0.1536.824" timestamp="1605428551810" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605433970579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605433970579" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605428476839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605428476839" />
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom" timestamp="1605433497231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605433497231" />
+    <state width="1364" height="195" key="GridCell.Tab.0.center" timestamp="1605433497231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605433497231" />
+    <state width="1364" height="195" key="GridCell.Tab.0.left" timestamp="1605433497231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605433497231" />
+    <state width="1364" height="195" key="GridCell.Tab.0.right" timestamp="1605433497231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605433497231" />
+  </component>
+</project>

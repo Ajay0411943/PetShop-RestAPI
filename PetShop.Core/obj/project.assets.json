@@ -4091,11 +4091,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.Core\\PetShop.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.Core\\PetShop.Core.csproj",
       "projectName": "PetShop.Core",
-      "projectPath": "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.Core\\PetShop.Core.csproj",
+      "projectPath": "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.Core\\PetShop.Core.csproj",
       "packagesPath": "C:\\Users\\Test\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.Core\\obj\\",
+      "outputPath": "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4114,8 +4114,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj": {
-              "projectPath": "C:\\Users\\Test\\source\\repos\\Compulsory first 3rd sem\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj"
+            "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj": {
+              "projectPath": "C:\\Users\\Test\\Desktop\\Petshop RestAPI validation\\PetShop-RestAPI\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj"
             }
           }
         }
